@@ -55,7 +55,7 @@ edellisen sävelen seuraavalla, jolloin lopputulos on odottamaton.
 
 Voit tutustua tarkemmin säveldatatiedostojen syntaksiin tarkastelemalla ja
 muokkaamalla tämän lisäosan mukana toimitettua esimerkkitiedostoa. Se löytyy
-"tones"-alikansiossa, jossa myös kaikkien luomiesi .tdf-tiedostojen on
+"tones"-alikansiosta, jossa myös kaikkien luomiesi .tdf-tiedostojen on
 oltava.
 
 ## Pikanäppäimet
@@ -80,8 +80,8 @@ Master -alavalikon.
 
 Kun uuden säveldatatiedoston luomisen valintaikkuna näytetään, kirjoita
 tiedostonimi ilman .tdf-tarkennetta. Tone Master lisää sen
-automaattisesti. Mikäli nimeä ei määritellä, Tone Master käyttää oletusnimeä
-"untitled.tdf". Uusi tiedosto luodaan ja ladataan, sekä avataan Muistiossa
+automaattisesti. Mikäli nimeä ei määritetä, käytetään oletusnimeä
+"untitled.tdf". Uusi tiedosto luodaan ja ladataan sekä avataan Muistiossa
 muokattavaksi. Peruuta tiedoston luominen painamalla tiedostonimikehotteessa
 Esc-näppäintä.
 
@@ -114,8 +114,8 @@ toista-komentoa kuullaksesi lopputuloksen.
   Muistiossa.
 * Paranneltu: Virheilmoitukset ovat nyt käyttäjäystävällisempiä.
 * Paranneltu: Ttietyt lisäosan ominaisuudet, kuten tones-kansion avaaminen
-  tai säveldatatiedostojen muokkaaminen Muistiossa, on nyt estetty
-  suojatuissa ruuduissa.
+  tai säveldatatiedostojen muokkaaminen Muistiossa, estetään nyt suojatuissa
+  ruuduissa.
 * Paranneltu: Käyttäjälle ilmoitetaan, jos säveldatan toisto on pysäytetty.
 * Korjattu: Säveldatan toisto estetty, mikäli toisen tiedoston toisto on
   käynnissä.
