@@ -15,7 +15,7 @@ celebri. Rezultatul final al sunetelor, asemănătoare cu ringtonurile la
 vechile telefoane mobile, este distractiv.
 
 Tone Master simplifică procesul de redare a secvențelor de tonuri utilizând
-fișierele data. Aceste fișier pot fi editate utilizând editorul tău favorit
+fișierele data. Aceste fișiere pot fi editate utilizând editorul tău favorit
 de text apoi salvând pentru a fi redate cu NVDA. Citiți mai departe pentru
 instrucțiuni!
 
@@ -28,15 +28,15 @@ redarea secvențelor sonore. Pentru a crea un fișier data care poate fi citit
 și interpretat de către NVDA, trebuie să urmezi câțiva pași descriși mai
 jos.
 
-1. Fiecare line din fișierul .tdf *trebuie* să conțină trei parametri
+1. Fiecare linie din fișierul .tdf *trebuie* să conțină trei parametri
    separați de două puncte (:). Primul parametru este înălțimea tonului, al
    doilea fiind durata, iar al treilea fiind timpul de pauză între fiecare
    ton. Toți cei 3 parametri sunt necesari de specificat, sau Tone Master nu
    va fi capabil să redea fișierul tău data.
 2. Parametri de înălțime și durată trebuie să fie specificați ca întregi, și
    pauza trebuie să fie specificată ca punct de floating valoare reală.
-3. Semnul # la începutului unei line în fișierul .tdf va fi ignorat ca fiind
-   un comentariu.
+3. Semnul # la începutului unei linii în fișierul .tdf va fi ignorat ca
+   fiind un comentariu.
 
 Exemplu: Redarea unei secvențe de 3 tonuri
 
@@ -76,7 +76,7 @@ salvate.
 
 ## Alte note
 
-Poți, deasemenea, să creezi, editezi și încarci fișierele data, sau să
+Poți, de asemenea, să creezi, editezi și încarci fișierele data, sau să
 deschizi un folder unde aceste fișiere sunt localizate. Pentru aceasta,
 mergi în meniul NVDA, Instrumente, Tone Master.
 
