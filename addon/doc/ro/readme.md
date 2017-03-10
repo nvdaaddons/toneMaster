@@ -3,8 +3,9 @@
 * Autori: Hrvoje Katić
 * Descărcați [versiunea stabilă][1]
 
-Bine ați venit la Tone Master! Am creat acest micuț add-on NVDA doar pentru
-distracție, dar și pentru dumneavoastră pentru a vă distra utilizându-l.
+Bine ați venit la Tone Master! Am creat acest micuț supliment NVDA doar
+pentru distracție, dar și pentru dumneavoastră pentru a vă distra
+utilizându-l.
 
 În totdeauna am vrut să creez tonuri muzicale cu NVDA, mai degrabă decât să
 ascult progresul NVDA și bipurile de eroare. Totuși, nu este așa de ușor să
