@@ -12,7 +12,7 @@ ei kuitenkaan ole kovin helppoa, joten halusin ensin tehdä siitä
 helpompaa. Siksi tein Tone Masterin. Kuvittele, millaista olisi kuulla
 NVDA:n soittavan Mozzartin tai Beethovenin kappaletta, tai ehkä Rolling
 Stonesin suurimpia hittejä. Vaikka lopputulos kuulostaakin vanhojen
-kännyköiden soittoääniltä, se voi olla siitä huolimatta hauskaa.
+kännyköiden soittoääneltä, se voi olla siitä huolimatta hauskaa.
 
 Tone Master yksinkertaistaa sävelsarjojen toistamista säveldatatiedostoja
 käyttäen. Voit muokata näitä tiedostoja suosikkitekstieditorillasi ja
@@ -79,7 +79,7 @@ myös menemällä NVDA-valikkoon, valitsemalla Työkalut ja avaamalla Tone
 Master -alavalikon.
 
 Kun uuden säveldatatiedoston luomisen valintaikkuna näytetään, kirjoita
-tiedostonimi ilman .tdf-tarkennetta. Tone Master lisää sen
+tiedostonimi ilman .tdf-päätettä. Tone Master lisää sen
 automaattisesti. Mikäli nimeä ei määritetä, käytetään oletusnimeä
 "untitled.tdf". Uusi tiedosto luodaan ja ladataan sekä avataan Muistiossa
 muokattavaksi. Peruuta tiedoston luominen painamalla tiedostonimikehotteessa
@@ -102,9 +102,9 @@ toista-komentoa kuullaksesi lopputuloksen.
 
 ## Muutokset versiossa 1.2
 
-* Korjattu: Osoitettu suuri ongelma, jossa tyhjän säveldatatiedoston
-  valitsemisesta ja sitten toisen tiedoston valitsemisesta ja toiston
-  yrittämisestä on seurauksena se, ettei säveldataa toisteta.
+* Korjattu: Suuri ongelma, jossa tyhjän säveldatatiedoston valitsemisesta ja
+  sitten toisen tiedoston valitsemisesta ja toiston yrittämisestä on
+  seurauksena se, ettei säveldataa toisteta.
 
 ## Muutokset versiossa 1.1
 
@@ -112,11 +112,11 @@ toista-komentoa kuullaksesi lopputuloksen.
   avaamiseen ja muokkaamiseen.
 * Lisätty: Vaihtoehto nykyisen ladatun säveldatatiedoston muokkaamiseen
   Muistiossa.
-* Paranneltu: Virheilmoitukset ovat nyt käyttäjäystävällisempiä.
-* Paranneltu: Ttietyt lisäosan ominaisuudet, kuten tones-kansion avaaminen
-  tai säveldatatiedostojen muokkaaminen Muistiossa, estetään nyt suojatuissa
+* Parannus: Virheilmoitukset ovat nyt käyttäjäystävällisempiä.
+* Parannus: Ttietyt lisäosan ominaisuudet, kuten tones-kansion avaaminen tai
+  säveldatatiedostojen muokkaaminen Muistiossa, estetään nyt suojatuissa
   ruuduissa.
-* Paranneltu: Käyttäjälle ilmoitetaan, jos säveldatan toisto on pysäytetty.
+* Parannus: Käyttäjälle ilmoitetaan, jos säveldatan toisto on pysäytetty.
 * Korjattu: Säveldatan toisto estetty, mikäli toisen tiedoston toisto on
   käynnissä.
 
@@ -126,4 +126,4 @@ toista-komentoa kuullaksesi lopputuloksen.
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=tmast
+[1]: https://addons.nvda-project.org/files/get.php?file=tmast
