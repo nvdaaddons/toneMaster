@@ -4,12 +4,12 @@
 * Herunterladen der [stabilen Version][1]
 
 Willkommen beim Tone Master! Diese NVDA-Erweiterung habe ich eigentlich nur
-zum Vergnügen erstellt, aber hoffe auch, dass Sie bei der Verwendung Freude
-dabei haben werden.
+zum Vergnügen erstellt, aber hoffe auch, Sie bei der Verwendung Freude dabei
+haben werden.
 
 Ich wollte schon immer mal musikalische Töne mit NVDA erzeugen, lieber als
 nur die Signaltöne von Fortschrittsbalken oder akustischen Signale bei
-Fehlern in NVDA hören. Allerdings ist das ganz und gar nicht so leicht. So
+Fehlern in NVDA zuhören. Allerdings ist das ganz und gar nicht so leicht. So
 wollte ich es erst einfacher machen. Das ist, warum ich den Tone Master
 geschrieben habe. Alleine die Vorstellung, wie das sein könnte, wenn NVDA
 Musikstücke von Mozart, Beethoven oder auch die größten Hits von den Rolling
@@ -26,7 +26,7 @@ Bevor Sie Ihre ersten musikalischen Töne mit Tone Master abspielen können,
 müssen Sie erst eine Klangdatei erstellen und diese laden. Die Klangdateien
 sind einfache Textdateien, nur mit der Endung ".tdf". Der Tone Master
 verarbeitet und spielt die Tonfolgen ab. Nachstehend werden ein paar Regeln
-kurz erklärt, damit solche Dateien überhaupt abspielen zu können.
+kurz erklärt, damit solche Dateien überhaupt abgespielt werden können.
 
 1. Jede Zeile in der Klangdatei enthält drei Werte, die jeweils mit einem
    Doppelpunkt von einander getrennt werden. Der erste Wert gibt die Tonhöhe
@@ -38,7 +38,7 @@ kurz erklärt, damit solche Dateien überhaupt abspielen zu können.
    beachten, dass hierbei nicht das deutsche Komma verwendet werden darf,
    sondern der Punkt.
 3. Mit dem Nummernzeichen am Anfang einer Zeile wird diese vom Tone Master
-   ignoriert.
+   als Kommentar betrachtet und somit ignoriert.
 
 Beispiel: Wiedergabe einer Tonfolge bestehend aus drei Tönen.
 
@@ -76,7 +76,7 @@ befindenden sollten, orientieren.
 * Alt+NVDA+O: Öffnet einen Ordner, indem Sie die entsprechende Klangdatei
   auswählen und laden können.
 
-## Anmerkungen
+## Weitere Anmerkungen
 
 Sie können auch die Klangdateien erstellen, bearbeiten und laden oder
 wechseln Sie in den Ordner über das NVDA-Menü "Extras" > "Tone Master",
