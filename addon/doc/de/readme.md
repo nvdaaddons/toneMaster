@@ -4,21 +4,21 @@
 * Herunterladen der [stabilen Version][1]
 
 Willkommen beim Tone Master! Diese NVDA-Erweiterung habe ich eigentlich nur
-zum Vergnügen erstellt, aber hoffe auch, Sie bei der Verwendung Freude dabei
-haben werden.
+aus Spaß erstellt. Ich hoffe, dass Sie bei der Verwendung auch Gefallen an
+dieser Erweiterung finden.
 
 Ich wollte schon immer mal musikalische Töne mit NVDA erzeugen, lieber als
 nur die Signaltöne von Fortschrittsbalken oder akustischen Signale bei
-Fehlern in NVDA zuhören. Allerdings ist das ganz und gar nicht so leicht. So
-wollte ich es erst einfacher machen. Das ist, warum ich den Tone Master
-geschrieben habe. Alleine die Vorstellung, wie das sein könnte, wenn NVDA
-Musikstücke von Mozart, Beethoven oder auch die größten Hits von den Rolling
-Stones spielen könnte. Dabei hören sich die Klänge wie die Klingeltöne von
-alten Mobiltelefonen an. Das dürfte auch weiterhin sehr witzig sein.
+Fehlern in NVDA zu hören. Allerdings ist das ganz und gar nicht so
+leicht. Ich wollte es einfacher machen. Deshalb habe ich den Tone Master
+geschrieben. Allein schon die witzige Vorstellung wie das sein könnte, wenn
+NVDA Musikstücke von Mozart, Beethoven oder auch die größten Hits von den
+Rolling Stones abspielt. Dabei hören sich die Klänge wie die Klingeltöne von
+alten Mobiltelefonen an. Das dürfte auch heute noch sehr witzig sein.
 
 Tone Master vereinfacht die Wiedergabe von Tonfolgen durch
 Klangdateien. Diese Dateien können Sie mit einem gewöhnlichen Editor Ihrer
-Wahl bearbeiten, um sie anschließend in NVDA abspielen lassen zu können.
+Wahl bearbeiten, um sie anschließend in NVDA abspielen zu können.
 
 ## Klangdateien
 
@@ -37,8 +37,8 @@ kurz erklärt, damit solche Dateien überhaupt abgespielt werden können.
    wobei die Länge in Kommazahlen angegeben werden. Dabei ist noch zu
    beachten, dass hierbei nicht das deutsche Komma verwendet werden darf,
    sondern der Punkt.
-3. Mit dem Nummernzeichen am Anfang einer Zeile wird diese vom Tone Master
-   als Kommentar betrachtet und somit ignoriert.
+3. Das Nummernzeichen am Anfang einer Zeile wird vom Tone Master als
+   Kommentar betrachtet und somit ignoriert.
 
 Beispiel: Wiedergabe einer Tonfolge bestehend aus drei Tönen.
 
@@ -58,9 +58,9 @@ Hinweis: Der Parameter für die Stille ist besonders wichtig, ansonsten
 unerwünschten Effekten führen kann.
 
 Um sich vertrauter mit der ganzen Syntax zu machen, können Sie sich
-natürlich an der Beispieldatei in dieser NVDA-Erweiterung, die sich im
-Ordner "Tones" befindet, wo üblicherweise sich die Klangdateien ebenso
-befindenden sollten, orientieren.
+natürlich an der Beispieldatei in dieser NVDA-Erweiterung orientieren. Diese
+befindet sich im Ordner "Tones", wo üblicherweise sich die Klangdateien
+ebenso befinden sollten.
 
 ## Kurztastenbefehle
 
@@ -78,9 +78,9 @@ befindenden sollten, orientieren.
 
 ## Weitere Anmerkungen
 
-Sie können auch die Klangdateien erstellen, bearbeiten und laden oder
-wechseln Sie in den Ordner über das NVDA-Menü "Extras" > "Tone Master",
-indem sich die Dateien befinden.
+Sie können entweder Klangdateien erstellen, bearbeiten und laden oder zu den
+Ordnern wechseln, die schon erstellte Dateien beinhalten. Sie gelangen zu
+den Ordnern über das NVDA-Menü "Extras" > "Tone Master".
 
 Wenn das Dialogfeld zum Erstellen von neuen Klangdateien angezeigt wird,
 können Sie den Namen (ohne die Endung ".tdf") direkt eingeben. Die Endung
@@ -93,20 +93,20 @@ Hinweis: Der Tone Master verwendet standardmäßig zum Bearbeiten der
 Klangdateien den Windows-Editor.
 
 Wenn das Dialogfeld zum Öffnen von Klangdateien angezeigt wird, können Sie
-sich mit den Pfeiltasten eine Klangdatei auswählen und sie mit der
-Eingabetaste schließlich öffnen oder mit der Escape-Taste abbrechen.
+mit den Pfeiltasten eine Klangdatei auswählen und sie mit der Eingabetaste
+öffnen oder den Dialog mit der Escape-Taste abbrechen.
 
-Wenn Sie einen Ordner mit einer .tdf-Datei öffnen, können Sie sie zum
-Anzeigen und Bearbeiten im Editor laden. Um die Ergebnisse sofort sich
-anhören zu können, wird empfohlen, die Datei im Tone Master erst zu
+Wenn Sie einen Ordner mit einer .tdf-Datei öffnen, können Sie die Datei zum
+Anzeigen und Bearbeiten im Editor laden. Um sich die Ergebnisse sofort
+anhören zu können, wird empfohlen die Datei im Tone Master erst zu
 laden. Anshließend können Sie die Datei bearbeiten, speichern und danach das
-Ergebnis sich nochmal anhören.
+Ergebnis nochmal abspielen.
 
 ## Änderungen in Version 1.2
 
-* Behoben: Ein Problem, in dem man erst eine leere Datei laden konnte,
-  anschließend eine andere öffnete, und diese versuchte wiederzugeben,
-  endete mit der Meldung, dass keine Datei abgespielt wurde.
+* Behoben: Ein Problem, bei dem man erst eine leere Datei laden konnte,
+  anschließend eine andere öffnete und eine Fehlermeldung, dass keine Datei
+  abgespielt wurde, auftrat.
 
 ## Änderungen in Version 1.1
 
@@ -119,8 +119,8 @@ Ergebnis sich nochmal anhören.
   beispielsweise das Öffnen oder Bearbeiten von Klangdateien im Editor nun
   im geschüttzen Desktop untersagt.
 * Verbessert: NVDA teilt nun mit, wenn eine Wiedergabe angehalten wird.
-* Behoben: Solange eine Datei bereits wiedergegeben wird, kann man keine
-  weitere laden.
+* Behoben: Solange eine Datei wiedergegeben wird, kann man keine weitere
+  laden.
 
 ## Änderungen in Version 1.0
 
