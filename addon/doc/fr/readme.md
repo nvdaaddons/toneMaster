@@ -70,7 +70,7 @@ vos fichiers .tdf doivent être situés aussi bien.
 
 ## Touches de raccourci
 
-* Alt+NVDA+T : Joue actuellement les données de tonalité chargé si tout est
+* Alt+NVDA+T : Joue les données de tonalité actuellement chargé si tout est
   bien.
 * Alt+Maj+NVDA+T : Arrête la lecture pour les données de tonalité
   actuellement chargé si n'importe quelles données de tonalité sont en cours
@@ -80,7 +80,7 @@ vos fichiers .tdf doivent être situés aussi bien.
 * Alt+NVDA+L : Ouvre une boîte de dialogue qui vous permet de choisir un de
   vos fichiers de données de tonalité disponible afin d'être  charger pour
   la lecture.
-* Alt+NVDA+E : Ouvre actuellement le fichier de données de tonalité chargé
+* Alt+NVDA+E : Ouvre le fichier de données de tonalité actuellement chargé
   dans le Bloc-notes pour l'édition.
 * Alt+NVDA+O : Ouvre un dossier avec les fichiers de données de tonalité où
   vous devez également les enregistrer dans l'ordre afin d'être localiser
