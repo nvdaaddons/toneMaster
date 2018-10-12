@@ -1,7 +1,7 @@
 # Tone Master #
 
 * Autor: Hrvoje Katić
-* Herunterladen der [stabilen Version][1]
+* [Stabile Version herunterladen][1]
 
 Willkommen beim Tone Master! Diese NVDA-Erweiterung habe ich eigentlich nur
 aus Spaß erstellt. Ich hoffe, dass Sie bei der Verwendung auch Gefallen an
