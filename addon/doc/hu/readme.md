@@ -98,6 +98,10 @@ ha lehetséges. Ezt követően szerkesztheti a fájlt, mentse el az eredményt,
 majd minden mentés után használhatja a lejátszás parancsot az utolsó
 eredmény meghallgatásához.
 
+## Changes for 1.3
+
+* fixes wx4 compatibility
+
 ## Az 1.2. verzió változásai
 
 * Javítás: egy nagyobb címzési hiba, ahol egy üres hangadat-fájl választása

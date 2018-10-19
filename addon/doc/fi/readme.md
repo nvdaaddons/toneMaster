@@ -100,6 +100,10 @@ ensin Tone Masteriin, mikäli mahdollista. Tämän jälkeen voit muokata
 tiedostoa, tallentaa edistymisesi ja käyttää jokaisen tallennuksen jälkeen
 toista-komentoa kuullaksesi lopputuloksen.
 
+## Muutokset versiossa 1.3
+
+* Korjaa wx4-yhteensopivuuden
+
 ## Muutokset versiossa 1.2
 
 * Korjattu: Suuri ongelma, jossa tyhjän säveldatatiedoston valitsemisesta ja

@@ -117,6 +117,10 @@ possible. Vous pouvez éditer le fichier, enregistrer vos progrès, et après
 chaque enregistrement vous pouvez utiliser la commande de lecture pour
 entendre votre dernier résultat.
 
+## Changements pour la version 1.3
+
+* correction de la compatibilité avec wx4
+
 ## Changements pour la version 1.2
 
 * Corrigé : Majeur problem adressé lorsque en sélectionnant une données de

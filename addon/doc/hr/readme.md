@@ -106,6 +106,10 @@ Master ako je to ikako moguće. Tada ćete moći uređivati datoteku, spremiti
 svoj napredak, a nakon svakog spremanja možete koristiti naredbu za sviranje
 kako biste čuli svoj posljednji rezultat.
 
+## Changes for 1.3
+
+* fixes wx4 compatibility
+
 ## Promjene u 1.2
 
 * Ispravak: Ispravljena ozbiljna greška gdje učitavanje praznog tonskog

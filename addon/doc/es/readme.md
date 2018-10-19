@@ -106,6 +106,10 @@ Master primero si es posible. entonces puedes editar el fichero, guarda tu
 progreso, y después de cada guardado puedes utilizar la orden reproducir
 para escuchar tu último resultado.
 
+## Cambios para 1.3
+
+* correcciones de compatibilidad con wx4
+
 ## Cambios para 1.2
 
 * Corregido: dirigido un problema mayor donde al seleccionar un fichero de

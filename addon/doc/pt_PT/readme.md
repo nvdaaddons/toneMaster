@@ -105,6 +105,10 @@ em tempo real, recomendo que carregue o ficheiro no Tone Master primeiro, se
 possível. Então pode editar o ficheiro, guardar o seu progresso, e após cada
 arquivamento pode usar o comando play para ouvir o seu último resultado.
 
+## Changes for 1.3
+
+* fixes wx4 compatibility
+
 ## Mudanças para 1.2
 
 * Corrigido: Um Problema importante resolvido, em que seleccionar um dado de

@@ -102,6 +102,10 @@ anhören zu können, wird empfohlen die Datei im Tone Master erst zu
 laden. Anshließend können Sie die Datei bearbeiten, speichern und danach das
 Ergebnis nochmal abspielen.
 
+## Changes for 1.3
+
+* Kompatibilitätsproblem mit wxPython 4 behoben.
+
 ## Änderungen in Version 1.2
 
 * Behoben: Ein Problem, bei dem man erst eine leere Datei laden konnte,
