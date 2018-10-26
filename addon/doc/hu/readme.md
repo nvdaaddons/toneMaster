@@ -100,7 +100,7 @@ eredmény meghallgatásához.
 
 ## Changes for 1.3
 
-* fixes wx4 compatibility
+* Fixed: Fixed compatibility issue with newer NVDA versions.
 
 ## Az 1.2. verzió változásai
 

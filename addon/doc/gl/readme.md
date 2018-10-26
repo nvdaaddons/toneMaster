@@ -107,7 +107,7 @@ derradeiro resultado.
 
 ## Changes for 1.3
 
-* fixes wx4 compatibility
+* Fixed: Fixed compatibility issue with newer NVDA versions.
 
 ## Cambios para 1.2
 

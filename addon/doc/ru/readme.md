@@ -107,7 +107,7 @@ Enter. Нажмите клавишу Escape, чтобы отменить заг�
 
 ## Changes for 1.3
 
-* fixes wx4 compatibility
+* Fixed: Fixed compatibility issue with newer NVDA versions.
 
 ## Изменения для 1.2
 

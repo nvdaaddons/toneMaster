@@ -102,13 +102,13 @@ toista-komentoa kuullaksesi lopputuloksen.
 
 ## Muutokset versiossa 1.3
 
-* Korjaa wx4-yhteensopivuuden
+* Korjattu: Yhteensopivuusongelma uudempien NVDA-versioiden kanssa.
 
 ## Muutokset versiossa 1.2
 
-* Korjattu: Suuri ongelma, jossa tyhjän säveldatatiedoston valitsemisesta ja
-  sitten toisen tiedoston valitsemisesta ja toiston yrittämisestä on
-  seurauksena se, ettei säveldataa toisteta.
+* Korjattu: Huomattava ongelma, jossa tyhjän säveldatatiedoston
+  valitsemisesta ja sitten toisen tiedoston valitsemisesta ja toiston
+  yrittämisestä on seurauksena se, ettei säveldataa toisteta.
 
 ## Muutokset versiossa 1.1
 
@@ -121,7 +121,7 @@ toista-komentoa kuullaksesi lopputuloksen.
   säveldatatiedostojen muokkaaminen Muistiossa, estetään nyt suojatuissa
   ruuduissa.
 * Parannus: Käyttäjälle ilmoitetaan, jos säveldatan toisto on pysäytetty.
-* Korjattu: Säveldatan toisto estetty, mikäli toisen tiedoston toisto on
+* Korjattu: Säveldatan toisto estetään, jos toisen tiedoston toisto on
   käynnissä.
 
 ## Muutokset versiossa 1.0

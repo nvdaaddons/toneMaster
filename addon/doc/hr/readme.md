@@ -108,7 +108,7 @@ kako biste čuli svoj posljednji rezultat.
 
 ## Changes for 1.3
 
-* fixes wx4 compatibility
+* Fixed: Fixed compatibility issue with newer NVDA versions.
 
 ## Promjene u 1.2
 

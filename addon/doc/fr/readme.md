@@ -119,7 +119,8 @@ entendre votre dernier résultat.
 
 ## Changements pour la version 1.3
 
-* correction de la compatibilité avec wx4
+* Corrigé : Correction d'un problème de compatibilité avec les nouvelles
+  versions de NVDA.
 
 ## Changements pour la version 1.2
 

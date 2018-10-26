@@ -102,17 +102,17 @@ anhören zu können, wird empfohlen die Datei im Tone Master erst zu
 laden. Anshließend können Sie die Datei bearbeiten, speichern und danach das
 Ergebnis nochmal abspielen.
 
-## Changes for 1.3
+## Änderungen für 1.3
 
-* Kompatibilitätsproblem mit wxPython 4 behoben.
+* Fixed: Fixed compatibility issue with newer NVDA versions.
 
-## Änderungen in Version 1.2
+## Änderungen Für 1.2
 
 * Behoben: Ein Problem, bei dem man erst eine leere Datei laden konnte,
   anschließend eine andere öffnete und eine Fehlermeldung, dass keine Datei
   abgespielt wurde, auftrat.
 
-## Änderungen in Version 1.1
+## Änderungen für 1.1
 
 * Hinzugefügt: Eine Option zum Erstellen und Bearbeiten von neuen
   Klangdateien im Editor.
@@ -126,9 +126,9 @@ Ergebnis nochmal abspielen.
 * Behoben: Solange eine Datei wiedergegeben wird, kann man keine weitere
   laden.
 
-## Änderungen in Version 1.0
+## Änderungen für 1.0
 
-* Erste Veröffentlichung.
+* Erstveröffentlichung.
 
 [[!tag dev stable]]
 

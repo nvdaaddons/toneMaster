@@ -101,9 +101,9 @@ recomand să încarci fișierul data în Tone Master mai întâi, dacă este
 posibil. După aceea poți edita fișierul, poți salva progresul, și după orice
 salvare poți să redai melodia folosind comanda de tastatură.
 
-## Changes for 1.3
+## Modificări aduse în versiunea 1.3
 
-* fixes wx4 compatibility
+* Fixed: Fixed compatibility issue with newer NVDA versions.
 
 ## Modificări aduse în versiunea 1.2
 
