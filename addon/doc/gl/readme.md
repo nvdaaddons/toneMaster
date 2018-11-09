@@ -105,9 +105,9 @@ primeiro se é posible. entón podes editar o ficheiro, garda o teu progreso,
 e despois de cada gardado podes usar a orde reproducir para escoitar o teu
 derradeiro resultado.
 
-## Changes for 1.3
+## Cambios para 1.3
 
-* Fixed: Fixed compatibility issue with newer NVDA versions.
+* Solucionado: Solucionada incidencia con versións novas de NVDA.
 
 ## Cambios para 1.2
 

@@ -103,7 +103,8 @@ salvare poți să redai melodia folosind comanda de tastatură.
 
 ## Modificări aduse în versiunea 1.3
 
-* Fixed: Fixed compatibility issue with newer NVDA versions.
+* Rezolvat: S-a rezolvat problema de compatibilitate cu versiunile mai noi
+  de NVDA.
 
 ## Modificări aduse în versiunea 1.2
 
