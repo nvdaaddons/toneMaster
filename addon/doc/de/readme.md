@@ -104,7 +104,7 @@ Ergebnis nochmal abspielen.
 
 ## Änderungen für 1.3
 
-* Fixed: Fixed compatibility issue with newer NVDA versions.
+* Es wurde ein Kompatibilitätsproblem mit neueren NVDA-Versionen behoben.
 
 ## Änderungen Für 1.2
 
