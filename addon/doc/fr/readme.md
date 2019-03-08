@@ -3,9 +3,8 @@
 * Auteurs : Hrvoje Katić
 * Télécharger [version stable][1]
 
-Bienvenue à Tone Master ! J'ai créé ce petit module complémentaire NVDA
-juste pour le plaisir, mais aussi pour que vous ayez du plaisir tout en
-l'utilisant.
+Bienvenue à Tone Master ! J'ai créé cette petite extension NVDA juste pour
+le plaisir, mais aussi pour que vous ayez du plaisir tout en l'utilisant.
 
 J'ai toujours voulu créer des mélodies musicales avec NVDA, plutôt que de
 simplement écouter les bips de progression et d'erreur de NVDA. Cependant,
@@ -64,9 +63,9 @@ obtiendrez des résultats inattendus. C'est pourquoi j'ai fait qu'il soit
 nécessaire.
 
 Pour se familiariser avec la syntaxe de fichiers de données de tonalité,
-s’il vous plaît voir et essayez de modifier le fichier d'exemple fourni avec
-ce module complémentaire. Il est situé dans le sous-dossier "tones", où tous
-vos fichiers .tdf doivent être situés aussi bien.
+veuillez voir et essayer de modifier le fichier d'exemple fourni avec cette
+extension. Il est situé dans le sous-dossier "tones", où tous vos fichiers
+.tdf doivent être également situés.
 
 ## Touches de raccourci
 
@@ -137,10 +136,10 @@ entendre votre dernier résultat.
   tonalité chargé dans le Bloc-notes.
 * Amélioré : Messages d'erreur sont maintenant plus convivial pour
   l'utilisateur.
-* Amélioré : Certaines fonctionnalités du module complémentaire comme
-  louverture du dossier de données de tonalité ou de la modification des
-  fichiers de données de tonalité dans le bloc-notes sont maintenant
-  interdites sur écrans sécurisés.
+* Amélioré : Certaines fonctionnalités de l'extension comme louverture du
+  dossier de données de tonalité ou la modification des fichiers de données
+  de tonalité dans le bloc-notes sont maintenant interdites sur écrans
+  sécurisés.
 * Amélioré : L'utilisateur sera notifié par NVDA si la lecture de données de
   tonalité est stoppée.
 * Corrigée : Lecture non autorisée de données de tonalité lorsque celui-ci
