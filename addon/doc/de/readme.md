@@ -65,8 +65,8 @@ ebenso befinden sollten.
 ## Kurztastenbefehle
 
 * Alt+NVDA+T: Spielt die aktuelle Klangdatei ab.
-* Alt+Shift+NVDA+T: Sofern bereits eine Klangdatei wiedergegeben wird, wird
-  damit die aktuelle Wiedergabe angehalten.
+* Alt+Umschalt+NVDA+T: Sofern bereits eine Klangdatei wiedergegeben wird,
+  wird damit die aktuelle Wiedergabe angehalten.
 * Alt+NVDA+N: Erstellt und öffnet eine neue, leere Klangdatei zum Bearbeiten
   im Editor.
 * Alt+NVDA+L: Zeigt ein Dialogfeld zum Wiedergeben an, indem Sie eine
@@ -121,7 +121,7 @@ Ergebnis nochmal abspielen.
 * Verbessert: Fehlermeldungen sind nun aussagekräftiger.
 * Verbessert: Unter Umständen werden bestimmte Features der Erweiterung
   beispielsweise das Öffnen oder Bearbeiten von Klangdateien im Editor nun
-  im geschüttzen Desktop untersagt.
+  im geschützten Desktop untersagt.
 * Verbessert: NVDA teilt nun mit, wenn eine Wiedergabe angehalten wird.
 * Behoben: Solange eine Datei wiedergegeben wird, kann man keine weitere
   laden.
