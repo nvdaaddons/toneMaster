@@ -1,7 +1,7 @@
 # Tone Master #
 
 * Autori: Hrvoje Katić
-* Preuzmite [stabilnu inačicu][1]
+* Preuzmi [stabilnu verziju][1]
 
 Dobrodošli u Tone Master! Stvorio sam ovaj mali NVDA dodatak iz čiste
 zabave, ali također i zato da biste se i vi imali priliku malo zabaviti
@@ -17,29 +17,29 @@ Bešlića. Iako konačan rezultat zvuči kao one monofone melodije na starim
 mobitelima, i dalje to može biti zabavno za čuti.
 
 Tone Master pojednostavljuje proces izvođenja tonskih sekvenci primjenom
-datoteka koje sadrže tonski zapis. Te datoteke moguće je uređivati pomoću
+datoteka koje sadrže tonski zapis. Te datoteke je moguće uređivati pomoću
 vašeg omiljenog tekst editora, a potom spremiti kako bi ih NVDA odsvirao. Za
 daljnje upute, čitajte dalje!
 
 ## Datoteke s tonskim zapisom
 
 Prije nego što će vam Tone Master moći odsvirati vašu željenu melodiju, prvo
-ćete morati stvoriti, a zatim učitati vašu datoteku sa tonskim
-zapisom. Datoteke sa tonskim zapisom (engl. Tone data files) su jednostavno
-tekstualne datoteke sa nastavkom .tdf. Tone Master koristi te datoteke za
-procesuiranje i reprodukciju tonskih sekvenci. Da biste stvorili datoteku sa
+ćete morati stvoriti, a zatim učitati vašu datoteku s tonskim
+zapisom. Datoteke s tonskim zapisom (engl. Tone data files) su jednostavno
+tekstualne datoteke s nastavkom .tdf. Tone Master koristi te datoteke za
+procesuiranje i reprodukciju tonskih sekvenci. Da biste stvorili datoteku s
 tonskim zapisom kako bi Tone Master mogao uspješno odsvirati tonsku
 sekvencu, morat ćete slijediti jednostavna pravila opisana u nastavku.
 
-1. Svaka linija u .tdf datoteci *MORA* sadržavati tri parametra odvojena
+1. Svaki redak u .tdf datoteci *MORA* sadržavati tri parametra odvojena
    dvotočkom (:). Prvi parametar je visina tona, drugi parametar je duljina
    tona, a treći je vrijeme tišine između svakog tona. Sva tri parametra je
    obavezno navesti, jer u protivnom Tone Master neće biti sposoban
    reproducirati vaš tonski zapis.
 2. Visinu i duljinu potrebno je navesti kao pozitivne brojeve, a tišina mora
    biti navedena kao decimalan broj.
-3. Znak ljestve (#) na početku bilo koje linije u .tdf datoteci označava
-   liniju s komentarom i Tone Master će stoga ignorirati takve linije.
+3. Znak ljestve (#) na početku bilo kojeg retka u .tdf datoteci označava
+   redak s komentarom i Tone Master će stoga ignorirati takve retke.
 
 Primjer: Odsviraj sekvencu od 3 tona
 
@@ -71,19 +71,19 @@ smjestiti i sve vaše .tdf datoteke.
 * Alt+NVDA+N: Stvara, a zatim otvara novi prazan tonski zapis u Notepad-u za
   uređivanje.
 * Alt+NVDA+L: Otvara dijaloški okvir koji vam omogućuje odabir neke od
-  dostupnih datoteka sa tonskim zapisom koje je moguće učitati za sviranje.
-* Alt+NVDA+E: Otvara trenutno učitanu datoteku sa tonskim zapisom u
-  Notepad-u za uređivanje.
-* Alt+NVDA+O: Otvara mapu koja sadrži datoteke sa tonskim zapisima gdje ih
-  je također potrebno i spremati kako bi ih Tone Master mogao pronaći.
+  dostupnih datoteka s tonskim zapisom koje je moguće učitati za sviranje.
+* Alt+NVDA+E: Otvara trenutno učitanu datoteku s tonskim zapisom u Notepad-u
+  za uređivanje.
+* Alt+NVDA+O: Otvara mapu koja sadrži datoteke s tonskim zapisima gdje ih je
+  također potrebno i spremati kako bi ih Tone Master mogao pronaći.
 
 ## Ostale napomene
 
-Također možete stvarati, uređivati i učitavati datoteke sa tonskim zapisom,
+Također možete stvarati, uređivati i učitavati datoteke s tonskim zapisom
 ili otvoriti mapu s tonovima gdje se te datoteke nalaze tako da pođete na
 NVDA izbornik, podizbornik Alati, pa zatim podizbornik Tone Master.
 
-Kada se prikaže dijaloški okvir za stvaranje novog tonskog zapisa, upišite
+Kad se prikaže dijaloški okvir za stvaranje novog tonskog zapisa, upišite
 ime bez nastavka .tdf. Tone Master će automatski dodati nastavak umjesto
 vas. Ukoliko niste naveli ime, Tone Master će upotrijebiti zadano ime
 "untitled.tdf". Tone Master će automatski stvoriti i učitati novu datoteku
@@ -91,24 +91,24 @@ za vas, a datoteka će se također otvoriti u Notepad-u za
 uređivanje. Pritisnite Escape kod zahtjeva za unos imena datoteke da biste
 otkazali stvaranje nove datoteke.
 
-Napomena: Tone Master koristi Notepad za uređivanje datoteka sa tonskim
-zapisom, budući da Notepad dolazi predinstaliran sa Windows sustavom i stoga
+Napomena: Tone Master koristi Notepad za uređivanje datoteka s tonskim
+zapisom, budući da Notepad dolazi predinstaliran s Windows sustavom i stoga
 bi ga svako računalo trebalo imati.
 
-Kada se otvori dijaloški okvir za učitavanje datoteke sa tonskim zapisom,
+Kad se otvori dijaloški okvir za učitavanje datoteke s tonskim zapisom,
 koristite strelice na tipkovnici za odabir datoteke koju želite učitati, a
 zatim pritisnite Enter. Pritisnite Escape da biste otkazali učitavanje.
 
-Kada otvorite mapu sa .tdf datotekama, možete ih tada učitati u vašem tekst
+Kad otvorite mapu s .tdf datotekama, možete ih tada učitati u vašem tekst
 editoru kako biste ih pregledali ili uredili. Međutim, da biste odmah čuli
 svoj rezultat u hodu, preporučio bi vam da prvo učitate datoteku u Tone
 Master ako je to ikako moguće. Tada ćete moći uređivati datoteku, spremiti
 svoj napredak, a nakon svakog spremanja možete koristiti naredbu za sviranje
 kako biste čuli svoj posljednji rezultat.
 
-## Changes for 1.3
+## Promjene u 1.3
 
-* Fixed: Fixed compatibility issue with newer NVDA versions.
+* Ispravak: Ispravljen problem kompatibilnosti s novom NVDA verzijom.
 
 ## Promjene u 1.2
 
@@ -118,14 +118,14 @@ kako biste čuli svoj posljednji rezultat.
 
 ## Promjene u 1.1
 
-* Dodano: Mogućnost stvaranja nove datoteke sa tonskim zapisom te otvaranje
+* Dodano: Mogućnost stvaranja nove datoteke s tonskim zapisom te otvaranje
   iste u Notepad-u za uređivanje.
-* Dodano: Mogućnost uređivanja trenutno učitane datoteke sa tonskim zapisom
-  u Notepad-u.
+* Dodano: Mogućnost uređivanja trenutno učitane datoteke s tonskim zapisom u
+  Notepad-u.
 * Poboljšano: Poruke koje najavljuju grešku sada su više prijateljski
   raspoložene prema korisniku.
 * Poboljšano: Određene mogućnosti dodatka kao što je otvaranje mape tonova
-  ili uređivanje datoteka sa tonskim zapisima u Notepad-u sada su zabranjene
+  ili uređivanje datoteka s tonskim zapisima u Notepad-u sada su zabranjene
   na sigurnosnim ekranima.
 * Poboljšano: Korisnik će biti obaviješten od strane NVDA ako je sviranje
   tonskog zapisa zaustavljeno.
@@ -134,7 +134,7 @@ kako biste čuli svoj posljednji rezultat.
 
 ## Promjene u 1.0
 
-* Prva inačica.
+* Prva verzija.
 
 [[!tag dev stable]]
 
