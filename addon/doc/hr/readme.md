@@ -66,7 +66,7 @@ smjestiti i sve vaše .tdf datoteke.
 ## Tipkovni prečaci
 
 * Alt+NVDA+T: Svira trenutno učitan tonski zapis ako je sve u redu.
-* Alt+Shift+NVDA+T: Zaustavlja sviranje trenutno učitanog tonskog zapisa
+* Alt+šift+NVDA+T: Zaustavlja sviranje trenutno učitanog tonskog zapisa
   ukoliko neki tonski zapis trenutno svira.
 * Alt+NVDA+N: Stvara, a zatim otvara novi prazan tonski zapis u Notepad-u za
   uređivanje.
