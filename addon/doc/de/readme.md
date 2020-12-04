@@ -18,7 +18,7 @@ alten Mobiltelefonen an. Das dürfte auch heute noch sehr witzig sein.
 
 Tone Master vereinfacht die Wiedergabe von Tonfolgen durch
 Klangdateien. Diese Dateien können Sie mit einem gewöhnlichen Editor Ihrer
-Wahl bearbeiten, um sie anschließend in NVDA abspielen zu können.
+Wahl bearbeiten, um sie anschließend in NVDA abspielen zu können!
 
 ## Klangdateien
 
@@ -40,7 +40,7 @@ kurz erklärt, damit solche Dateien überhaupt abgespielt werden können.
 3. Das Nummernzeichen am Anfang einer Zeile wird vom Tone Master als
    Kommentar betrachtet und somit ignoriert.
 
-Beispiel: Wiedergabe einer Tonfolge bestehend aus drei Tönen.
+Beispiel: Wiedergabe einer Tonfolge bestehend aus drei Tönen
 
 1500:100:0.5
 
