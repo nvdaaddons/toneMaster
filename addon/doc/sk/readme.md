@@ -104,6 +104,6 @@ opakovane prehrávať výsledok.
 
 * Prvé vydanie.
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

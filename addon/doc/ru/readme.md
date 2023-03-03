@@ -134,6 +134,6 @@ Enter. Нажмите клавишу Escape, чтобы отменить заг�
 
 * Первый выпуск
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

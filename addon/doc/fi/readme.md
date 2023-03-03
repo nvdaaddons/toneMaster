@@ -128,6 +128,6 @@ toista-komentoa kuullaksesi lopputuloksen.
 
 * Ensimmäinen versio.
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

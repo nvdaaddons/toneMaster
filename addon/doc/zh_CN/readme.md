@@ -82,6 +82,6 @@ Master中。然后，您可以编辑文件，保存进度，每次保存后，�
 
 * 初始发布。
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

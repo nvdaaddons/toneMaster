@@ -135,6 +135,6 @@ arquivamento pode usar o comando play para ouvir o seu último resultado.
 
 * Versão inicial
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

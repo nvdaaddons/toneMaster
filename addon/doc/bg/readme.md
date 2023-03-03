@@ -138,6 +138,6 @@ Notepad за редактиране. Натиснете клавиша ESCAPE в
 
 * Първоначално издание.
 
-[[!tag dev stable]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast
