@@ -3,8 +3,8 @@
 * Yazarlar: Hrvoje Katic
 * [kararlı sürümü][1] indir
 
-İşte karşınızda, Tone Master! Bu eklentiyi öylesine eylence için
-yazmıştım. Umarım sizde kullanırken biraz eylenirsiniz. 
+Tone Master'a hoş geldiniz! Bu küçük NVDA eklentisini sadece eğlence için ve
+aynı zamanda onu kullanırken eğlenmeniz için oluşturdum.
 
 NVDA'nın aşama çubuklarında ve hata bildirimi için kullandığı bip seslerini
 duymak yerine NVDA'ya farklı melodiler çaldırmak istemişimdir. Ancak, bu
@@ -17,7 +17,7 @@ yine de komik oluyor.
 Yukarıda da belirttiğim gibi, Tone Master ton veri dosyalarını kullanarak bu
 işlemi kolaylaştırır. Bu dosyalar istediğiniz metin düzenleme programı ile
 düzenlenebilir ve NVDA ile çalınabilir. Eklentinin nasıl kullanıldığını
-öğrenmek için okumaya devam edin. 
+öğrenmek için okumaya devam edin.
 
 ## Ton veri dosyaları
 
@@ -26,7 +26,7 @@ oluşturmanız ve Tone Master'da açmanız gerekir. Basitçe Ton veri dosyaları
 .tdf uzantılı metin dosyalarıdır. Tone Master, ton dizilerini işlemek ve
 çalmak için bu dosyaları kullanır. Tone Master'ın Oluşturacağınız müzikleri
 başarılı bir şekilde çalabilmesi için ton veri dosyalarının aşağıda
-belirtilen talimatlar çerçevesinde oluşturulmaları gerekir. 
+belirtilen talimatlar çerçevesinde oluşturulmaları gerekir.
 
 1. .tdf dosyasındaki her satır *zorunlu* iki nokta üst üste (:) ile ayrılmış
    üç parametre içermelidir. Birinci parametre ton perdesi, ikinci parametre
@@ -34,7 +34,7 @@ belirtilen talimatlar çerçevesinde oluşturulmaları gerekir.
    süresidir. Her üç parametrenin de tanımlanması gereklidir. Aksi takdirde
    Tone Master dosyayı çalamaz.
 2. Perde ve süre parametreleri tamsayı, sessizlik parametresi ise ondalık
-   sayı olarak tanımlanmalıdır. 
+   sayı olarak tanımlanmalıdır.
 3. Eğer  .tdf dosyasındaki herhangi bir satırın başında bir diyez işareti
    (#) varsa, Tone Master o satırı bir yorum olarak algılayacak ve
    yoksayacaktır.
@@ -53,11 +53,11 @@ dizideki son ton perdesi 500, süresi 100 ve sessizlik 0,7'dir.
 
 Önemli, Sessizlik parametresinin belirtilmesi zorunludur. Eğer
 belirtilmezse, Tone Master Alt Alta bulunan iki dizeyi üst üste algılar ve
-beklenmedik sonuçlar alabilirsiniz. 
+beklenmedik sonuçlar alabilirsiniz.
 
 Ton veri dosyalarının yapısına aşina olmak için lütfen eklentiyle birlikte
 gelen örnek dosyayı görüntüleyin ve düzenlemeyi deneyin. Örnek dosyayı
-"tones" alt klasöründe bulabilirsiniz. 
+"tones" alt klasöründe bulabilirsiniz.
 
 ## Kısayol tuşları
 
@@ -66,11 +66,11 @@ gelen örnek dosyayı görüntüleyin ve düzenlemeyi deneyin. Örnek dosyayı
 * Alt+NVDA+N: Düzenleme için Not Defteri'nde yeni bir boş ton veri dosyası
   oluşturur ve açar.
 * Alt+NVDA+L: Oynatmak için bir ton veri dosyası seçebileceğiniz bir
-  iletişim kutusu açar. 
+  iletişim kutusu açar.
 * Alt+NVDA+E: Açılmış ton veri dosyasını düzenlemeniz için dosyayı not
-  defterinde açar. 
+  defterinde açar.
 * Alt+NVDA+O: Ton veri dosyalarının bulunması gereken "tones" klasörünü
-  açar. 
+  açar.
 
 ## Diğer notlar
 
