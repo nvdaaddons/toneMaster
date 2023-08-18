@@ -2,6 +2,7 @@
 
 * Авторы: Hrvoje Katić
 * Загрузить [стабильную версию][1]
+* NVDA compatibility: 2019.3 and later
 
 Добро пожаловать в Tone Master! Я создал это маленькое дополнение NVDA
 просто для удовольствия, надеюсь, что вы также получите удовольствие при его
@@ -134,6 +135,6 @@ Enter. Нажмите клавишу Escape, чтобы отменить заг�
 
 * Первый выпуск
 
-[[!tag legacy]]
+[[!tag stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

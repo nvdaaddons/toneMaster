@@ -2,6 +2,7 @@
 
 * Autor: Hrvoje Katić
 * Stiahnuť [stabilnú verziu][1]
+* NVDA compatibility: 2019.3 and later
 
 Vitajte! Tento doplnok pre NVDA som vytvoril ako kratochvíľu a verím, že
 budete mať s ním veľa zábavy.
@@ -104,6 +105,6 @@ opakovane prehrávať výsledok.
 
 * Prvé vydanie.
 
-[[!tag legacy]]
+[[!tag stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

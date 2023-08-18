@@ -2,6 +2,7 @@
 
 * Írta: Hrvoje Katić
 * Letöltés [stabil verzió][1]
+* NVDA compatibility: 2019.3 and later
 
 Üdvözlöm a hangmesterben! Ezt a kis NVDA-bővítményt viccből írtam, és
 megosztom Önnel, hogy egy kicsit jobb kedvre derítsem, míg használja.
@@ -125,6 +126,6 @@ eredmény meghallgatásához.
 
 * Eredeti kiadás.
 
-[[!tag legacy]]
+[[!tag stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

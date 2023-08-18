@@ -2,6 +2,7 @@
 
 * 作者: Hrvoje Katić
 * 下载 [稳定版][1]
+* NVDA compatibility: 2019.3 and later
 
 欢迎来到Tone Master！我开发了这个小小的NVDA插件只是为了好玩，希望让你在使用它时玩得开心。
 
@@ -82,6 +83,6 @@ Master中。然后，您可以编辑文件，保存进度，每次保存后，�
 
 * 初始发布。
 
-[[!tag legacy]]
+[[!tag stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

@@ -1,7 +1,8 @@
-# Tone Master #
+# Ton Ustası #
 
 * Yazarlar: Hrvoje Katic
 * [kararlı sürümü][1] indir
+* NVDA uyumluluğu: 2019.3 ve sonrası
 
 Tone Master'a hoş geldiniz! Bu küçük NVDA eklentisini sadece eğlence için ve
 aynı zamanda onu kullanırken eğlenmeniz için oluşturdum.
@@ -14,10 +15,10 @@ Rolling Stones'un en çok dinlenme almış şarkılarını çaldığını düş�
 ki sonuç kulağa eski cep telefonlarındaki zil sesleri gibi gelecek olsa da
 yine de komik oluyor.
 
-Yukarıda da belirttiğim gibi, Tone Master ton veri dosyalarını kullanarak bu
-işlemi kolaylaştırır. Bu dosyalar istediğiniz metin düzenleme programı ile
-düzenlenebilir ve NVDA ile çalınabilir. Eklentinin nasıl kullanıldığını
-öğrenmek için okumaya devam edin.
+Ton Ustası, ton veri dosyalarını uygulayarak ton dizilerini çalma sürecini
+basitleştirir. Bu dosyalar favori metin düzenleyicinizle düzenlenebilir ve
+ardından NVDA ile oynatmak için kaydedilebilir. Talimatlar için okumaya
+devam edin!
 
 ## Ton veri dosyaları
 
@@ -130,6 +131,6 @@ kullanabilirsiniz.
 
 * İlk sürüm.
 
-[[!tag legacy]]
+[[!tag stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

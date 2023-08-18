@@ -2,6 +2,7 @@
 
 * Tekijä: Hrvoje Katić
 * Lataa [vakaa versio][1]
+* Yhteensopivuus: NVDA 2019.3 ja uudemmat
 
 Tervetuloa Tone Masteriin! Tein tämän lisäosan vain huvin vuoksi, mutta myös
 sinua varten, jotta voit pitää hauskaa käyttäessäsi sitä.
@@ -128,6 +129,6 @@ toista-komentoa kuullaksesi lopputuloksen.
 
 * Ensimmäinen versio.
 
-[[!tag legacy]]
+[[!tag stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

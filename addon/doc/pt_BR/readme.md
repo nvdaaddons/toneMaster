@@ -2,6 +2,7 @@
 
 * Autores: Hrvoje Katić
 * Baixe a [versão estável][1]
+* NVDA compatibility: 2019.3 and later
 
 Bem-vindo ao Tom Master! Criei este pequeno complemento NVDA apenas por
 diversão, mas também para você se divertir enquanto o usa.
@@ -137,6 +138,6 @@ resultado.
 
 * Versão inicial.
 
-[[!tag legacy]]
+[[!tag stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

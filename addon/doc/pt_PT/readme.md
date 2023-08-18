@@ -2,6 +2,7 @@
 
 * Autor: Hrvoje Katić
 * Baixar [versão estável][1]
+* NVDA compatibility: 2019.3 and later
 
 Bem-vindo ao mestre de tom! Eu criei este pequeno extra do NVDA apenas por
 diversão, mas também para que se possa divertir enquanto o usa.
@@ -135,6 +136,6 @@ arquivamento pode usar o comando play para ouvir o seu último resultado.
 
 * Versão inicial
 
-[[!tag legacy]]
+[[!tag stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast

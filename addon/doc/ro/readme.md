@@ -2,6 +2,7 @@
 
 * Autori: Hrvoje Katić
 * Descărcați [versiunea stabilă][1]
+* NVDA compatibility: 2019.3 and later
 
 Bine ați venit la Tone Master! Am creat acest micuț supliment NVDA doar
 pentru distracție, dar și pentru dumneavoastră pentru a vă distra
@@ -129,6 +130,6 @@ salvare poți să redai melodia folosind comanda de tastatură.
 
 * lansarea inițială.
 
-[[!tag legacy]]
+[[!tag stable]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tmast
