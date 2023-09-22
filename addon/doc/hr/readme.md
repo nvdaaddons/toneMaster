@@ -2,7 +2,7 @@
 
 * Autori: Hrvoje Katić
 * Preuzmi [stabilnu verziju][1]
-* NVDA compatibility: 2019.3 and later
+* NVDA kompatibilnost: 2019.3 i novije verzije
 
 Dobrodošli u Tone Master! Stvorio sam ovaj mali NVDA dodatak iz čiste
 zabave, ali također i zato da biste se i vi imali priliku malo zabaviti
