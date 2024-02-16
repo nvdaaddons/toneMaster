@@ -148,7 +148,7 @@ entendre votre dernier résultat.
 
 ## Changements pour la version 1.0
 
-* Première version
+* Première version.
 
 [[!tag stable]]
 

@@ -1,6 +1,6 @@
 # Tone Master #
 
-* Autore: Hrvoje Katić
+* Authors: Hrvoje Katić
 * Scarica la [versione stabile][1]
 * NVDA compatibility: 2019.3 and later
 

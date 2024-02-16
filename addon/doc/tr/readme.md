@@ -1,6 +1,6 @@
 # Ton Ustası #
 
-* Yazarlar: Hrvoje Katic
+* Yazarlar: Hrvoje Katić
 * [kararlı sürümü][1] indir
 * NVDA uyumluluğu: 2019.3 ve sonrası
 

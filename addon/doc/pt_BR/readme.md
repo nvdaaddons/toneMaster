@@ -1,6 +1,6 @@
 # Tom Master (Tone Master) #
 
-* Autores: Hrvoje Katić
+* Authors: Hrvoje Katić
 * Baixe a [versão estável][1]
 * NVDA compatibility: 2019.3 and later
 

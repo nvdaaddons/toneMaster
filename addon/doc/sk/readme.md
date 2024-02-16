@@ -1,6 +1,6 @@
 # Hracia skrynka #
 
-* Autor: Hrvoje Katić
+* Authors: Hrvoje Katić
 * Stiahnuť [stabilnú verziu][1]
 * NVDA compatibility: 2019.3 and later
 

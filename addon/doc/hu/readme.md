@@ -1,6 +1,6 @@
 # Hangmester #
 
-* Írta: Hrvoje Katić
+* Authors: Hrvoje Katić
 * Letöltés [stabil verzió][1]
 * NVDA compatibility: 2019.3 and later
 
