@@ -112,9 +112,9 @@ Enter. Нажмите клавишу Escape, чтобы отменить заг�
 
 ## Изменения для 1.2
 
-* Исправлено: Addressed major issue where selecting an empty tone data, then
-  selecting another one and trying to play it results in tone data not being
-  played.
+* Исправлено: Устранена основная проблема, из-за которой при выборе пустых
+  данных сигналов, затем при выборе других и попытке их воспроизведения
+  данные сигналов не воспроизводились.
 
 ## Изменения для 1.1
 
