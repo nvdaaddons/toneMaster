@@ -107,6 +107,16 @@ Master primero si es posible. entonces puedes editar el fichero, guarda tu
 progreso, y después de cada guardado puedes utilizar la orden reproducir
 para escuchar tu último resultado.
 
+## Cambios para 1.5
+
+* Corregido: arreglado fallo de compatibilidad con NVDA 2022.1 y versiones
+  posteriores.
+
+## Cambios para 1.4
+
+* Corregido: arreglado fallo de compatibilidad con NVDA 2021.1 y versiones
+  posteriores.
+
 ## Cambios para 1.3
 
 * Corregido: arreglado fallo de compatibilidad con las versiones más
@@ -139,4 +149,4 @@ para escuchar tu último resultado.
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tmast
+[1]: https://addons.nvda-project.org/files/get.php?file=tonemaster

@@ -107,6 +107,14 @@ Master ako je to ikako moguće. Tada ćete moći uređivati datoteku, spremiti
 svoj napredak, a nakon svakog spremanja možete koristiti naredbu za sviranje
 kako biste čuli svoj posljednji rezultat.
 
+## Changes for 1.5
+
+* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+
+## Changes for 1.4
+
+* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+
 ## Promjene u 1.3
 
 * Ispravak: Ispravljen problem kompatibilnosti s novom NVDA verzijom.
@@ -139,4 +147,4 @@ kako biste čuli svoj posljednji rezultat.
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tmast
+[1]: https://addons.nvda-project.org/files/get.php?file=tonemaster

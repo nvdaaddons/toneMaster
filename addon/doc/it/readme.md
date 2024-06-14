@@ -102,6 +102,14 @@ in Tone Master se possibile. Poi potrete editare il file, salvare il vostro
 progresso, e dopo ogni salvataggio utilizzare il comando Play per ascoltare
 il vostro ultimo risultato.
 
+## Changes for 1.5
+
+* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+
+## Changes for 1.4
+
+* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+
 ## Novità nella versione 1.3
 
 * Risolto: risolti i problemi di  compatibilità con le nuove versioni di
@@ -134,4 +142,4 @@ il vostro ultimo risultato.
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tmast
+[1]: https://addons.nvda-project.org/files/get.php?file=tonemaster

@@ -102,6 +102,14 @@ recomand să încarci fișierul data în Tone Master mai întâi, dacă este
 posibil. După aceea poți edita fișierul, poți salva progresul, și după orice
 salvare poți să redai melodia folosind comanda de tastatură.
 
+## Changes for 1.5
+
+* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+
+## Changes for 1.4
+
+* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+
 ## Modificări aduse în versiunea 1.3
 
 * Rezolvat: S-a rezolvat problema de compatibilitate cu versiunile mai noi
@@ -132,4 +140,4 @@ salvare poți să redai melodia folosind comanda de tastatură.
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tmast
+[1]: https://addons.nvda-project.org/files/get.php?file=tonemaster

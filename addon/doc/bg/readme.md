@@ -109,6 +109,14 @@ Notepad за редактиране. Натиснете клавиша ESCAPE в
 запишете напредъка си, и след всяко записване да използвате командата за
 възпроизвеждане, за да прослушате вашия последен резултат.
 
+## Changes for 1.5
+
+* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+
+## Changes for 1.4
+
+* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+
 ## Промени във версия 1.3
 
 * Поправка: Отстранена е несъвместимостта с по-новите версии на NVDA.
@@ -141,4 +149,4 @@ Notepad за редактиране. Натиснете клавиша ESCAPE в
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tmast
+[1]: https://addons.nvda-project.org/files/get.php?file=tonemaster

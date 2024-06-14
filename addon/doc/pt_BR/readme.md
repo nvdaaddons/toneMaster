@@ -108,6 +108,14 @@ possível. Em seguida, você pode editar o arquivo, salvar seu progresso e,
 após cada arquivamento, pode usar o comando reproduzir para ouvir seu último
 resultado.
 
+## Changes for 1.5
+
+* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+
+## Changes for 1.4
+
+* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+
 ## Mudanças para 1.3
 
 * Corrigido: Corrigido problema de compatibilidade com versões mais novas do
@@ -140,4 +148,4 @@ resultado.
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tmast
+[1]: https://addons.nvda-project.org/files/get.php?file=tonemaster

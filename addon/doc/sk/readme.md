@@ -82,6 +82,14 @@ Súbory s príponou .tdf môžete priamo otvoriť a upravovať z priečinka
 melódiu načítajte cez skratku nvda+alt+l. Po uložení budete môcť rovno
 opakovane prehrávať výsledok.
 
+## Changes for 1.5
+
+* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+
+## Changes for 1.4
+
+* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+
 ## Verzia 1.3
 
 * Upravené pre nové verzie NVDA.
@@ -107,4 +115,4 @@ opakovane prehrávať výsledok.
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tmast
+[1]: https://addons.nvda-project.org/files/get.php?file=tonemaster

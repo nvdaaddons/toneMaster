@@ -101,6 +101,14 @@ ensin Tone Masteriin, mikäli mahdollista. Tämän jälkeen voit muokata
 tiedostoa, tallentaa edistymisesi ja käyttää jokaisen tallennuksen jälkeen
 toista-komentoa kuullaksesi lopputuloksen.
 
+## Changes for 1.5
+
+* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+
+## Changes for 1.4
+
+* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+
 ## Muutokset versiossa 1.3
 
 * Korjattu: Yhteensopivuusongelma uudempien NVDA-versioiden kanssa.
@@ -131,4 +139,4 @@ toista-komentoa kuullaksesi lopputuloksen.
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tmast
+[1]: https://addons.nvda-project.org/files/get.php?file=tonemaster

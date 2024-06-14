@@ -62,6 +62,14 @@ Master将自动为您创建和加载新文件，它也将在记事本中打开�
 使用.tdf文件打开文件夹时，可以在文本编辑器中加载它们以供查看或编辑。但是，为了在运行中听到您的结果，我强烈建议您尽可能先将文件加载到Tone
 Master中。然后，您可以编辑文件，保存进度，每次保存后，您可以使用播放快捷键来听取最后的结果。
 
+## Changes for 1.5
+
+* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+
+## Changes for 1.4
+
+* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+
 ## 版本1.3
 
 * 修复：修复较新的NVDA版本的兼容性问题。
@@ -85,4 +93,4 @@ Master中。然后，您可以编辑文件，保存进度，每次保存后，�
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tmast
+[1]: https://addons.nvda-project.org/files/get.php?file=tonemaster

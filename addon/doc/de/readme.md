@@ -101,6 +101,14 @@ anhören zu können, wird empfohlen die Datei im Tone-Master erst zu
 laden. Anshließend können Sie die Datei bearbeiten, speichern und danach das
 Ergebnis nochmal abspielen.
 
+## Changes for 1.5
+
+* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+
+## Changes for 1.4
+
+* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+
 ## Änderungen in 1.3
 
 * Es wurde ein Kompatibilitätsproblem mit neueren NVDA-Versionen behoben.
@@ -131,4 +139,4 @@ Ergebnis nochmal abspielen.
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tmast
+[1]: https://addons.nvda-project.org/files/get.php?file=tonemaster

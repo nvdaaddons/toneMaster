@@ -106,6 +106,14 @@ primeiro se é posible. entón podes editar o ficheiro, garda o teu progreso,
 e despois de cada gardado podes usar a orde reproducir para escoitar o teu
 derradeiro resultado.
 
+## Changes for 1.5
+
+* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+
+## Changes for 1.4
+
+* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+
 ## Cambios para 1.3
 
 * Solucionado: Solucionada incidencia con versións novas de NVDA.
@@ -137,4 +145,4 @@ derradeiro resultado.
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tmast
+[1]: https://addons.nvda-project.org/files/get.php?file=tonemaster
