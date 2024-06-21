@@ -101,13 +101,15 @@ ensin Tone Masteriin, mikäli mahdollista. Tämän jälkeen voit muokata
 tiedostoa, tallentaa edistymisesi ja käyttää jokaisen tallennuksen jälkeen
 toista-komentoa kuullaksesi lopputuloksen.
 
-## Changes for 1.5
+## Muutokset versiossa 1.5
 
-* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+* Korjattu: Yhteensopivuusongelma NVDA 2022.1:n ja sitä uudempien versioiden
+  kanssa.
 
-## Changes for 1.4
+## Muutokset versiossa 1.4
 
-* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+* Korjattu: Yhteensopivuusongelma NVDA 2021.1:n ja sitä uudempien versioiden
+  kanssa.
 
 ## Muutokset versiossa 1.3
 

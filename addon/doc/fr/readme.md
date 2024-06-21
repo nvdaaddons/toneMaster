@@ -117,13 +117,15 @@ possible. Vous pouvez éditer le fichier, enregistrer vos progrès, et après
 chaque enregistrement vous pouvez utiliser la commande de lecture pour
 entendre votre dernier résultat.
 
-## Changes for 1.5
+## Changements pour la version 1.5
 
-* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+* Corrigé : Correction d'un problème de compatibilité avec NVDA 2022.1 et
+  versions ultérieures.
 
-## Changes for 1.4
+## Changements pour la version 1.4
 
-* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+* Corrigé : Correction d'un problème de compatibilité avec NVDA 2021.1 et
+  versions ultérieures.
 
 ## Changements pour la version 1.3
 
