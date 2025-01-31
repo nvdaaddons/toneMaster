@@ -1,8 +1,8 @@
 # Tom Master (Tone Master) #
 
-* Authors: Hrvoje Katić
+* Autores: Hrvoje Katić
 * Baixe a [versão estável][1]
-* NVDA compatibility: 2019.3 and later
+* Compatibilidade com NVDA: 2019.3 e posterior
 
 Bem-vindo ao Tom Master! Criei este pequeno complemento NVDA apenas por
 diversão, mas também para você se divertir enquanto o usa.
@@ -108,13 +108,16 @@ possível. Em seguida, você pode editar o arquivo, salvar seu progresso e,
 após cada arquivamento, pode usar o comando reproduzir para ouvir seu último
 resultado.
 
-## Changes for 1.5
+## Mudanças para 1.5
 
-* Fixed: Fixed compatibility issue with NVDA 2022.1 and later versions.
+* Corrigido: Corrigido o problema de compatibilidade com o NVDA 2022.1 e
+  versões posteriores.Corrigido: Corrigido problema de compatibilidade com
+  versões mais novas do NVDA.
 
-## Changes for 1.4
+## Mudanças para 1.4
 
-* Fixed: Fixed compatibility issue with NVDA 2021.1 and later versions.
+* Corrigido: Corrigido o problema de compatibilidade com o NVDA 2021.1 e
+  versões posteriores.
 
 ## Mudanças para 1.3
 
